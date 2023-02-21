@@ -1,0 +1,9 @@
+version = 1
+
+[[analyzers]]
+enabled = true
+name = "javascript"
+
+[[transformers]]
+enabled = true
+name = "prettier"
